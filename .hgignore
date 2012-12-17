@@ -1,0 +1,9 @@
+syntax: glob
+*.ncb
+Debug
+Release
+ROM
+*.user
+*.dll
+log.txt
+*.suo
